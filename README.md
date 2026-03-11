@@ -6,7 +6,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/Keyser2356/ColoredHex"><img src="https://img.shields.io/github/stars/Keyser2356/ColoredHex?style=for-the-badge&color=ff69b4" alt="Stars"></a>
-    <a href="https://github.com/Keyser2356/ColoredHex/blob/main/ColoredHex.plugin.js"><img src="https://img.shields.io/github/downloads/Keyser2356/ColoredHex/total?style=for-the-badge&color=00d4ff" alt="Downloads"></a>
+    <a href="https://github.com/Keyser2356/ColoredHex/releases"><img src="https://img.shields.io/github/downloads/Keyser2356/ColoredHex/total?style=for-the-badge&color=00d4ff" alt="Downloads"></a>
     <a href="https://betterdiscord.app"><img src="https://img.shields.io/badge/BetterDiscord-Compatible-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="BetterDiscord"></a>
   </p>
 </p>
