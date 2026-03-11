@@ -8,7 +8,8 @@
  
   ## Config
  
- <img width="541" height="493" alt="Discord_ApD2Jo2Pbk" src="https://github.com/user-attachments/assets/fce0f9d2-5e11-45c5-9c2f-753f81ebd061" />
+<img width="812" height="366" alt="Frame 3" src="https://github.com/user-attachments/assets/5a91cd46-83cf-4729-8e64-b1f76094320a" />
+
 
 
 
