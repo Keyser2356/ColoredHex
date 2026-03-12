@@ -68,7 +68,6 @@ No more copying a code → opening a color picker → checking what color it is.
 | Platform | Status | Note |
 |:---|:---|:---|
 | **BetterDiscord** | ✅ Full Support | Recommended |
-| **Vencord** | ✅ Supported | Via local install |
 | **Vanilla Discord**| ❌ Not Supported| Use a client mod |
 
 ---
